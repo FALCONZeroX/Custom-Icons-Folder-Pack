@@ -1,78 +1,58 @@
-# Custom Icons Folder Pack
+<div align="center">
 
-A high-quality **Custom Windows Folder Icons Pack** designed to enhance your desktop experience.  
-This repository includes ready-to-use **ICO icons**, **PNG previews**, and the original **Photoshop PSD source file** for customization.
+# 🎨 Custom Icons Folder Pack
 
----
+A high-quality **Windows Folder Icons Pack** featuring **ICO icons**, **PNG previews**, and editable **PSD source files**.  
+Designed for gamers, developers, and creators who want a clean and modern Windows folder setup.
 
-## 📂 Folder Structure
+<br>
 
-This repository is organized into the following folders:
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
+![Photoshop](https://img.shields.io/badge/PSD-Photoshop-001E36?style=for-the-badge&logo=adobephotoshop)
+![Icons](https://img.shields.io/badge/Format-ICO%20%7C%20PNG-yellow?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/USERNAME/Custom-Icons-Folder-Pack?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/USERNAME/Custom-Icons-Folder-Pack?style=for-the-badge)
 
-### 🔹 `ICO/`
-Contains the final Windows folder icons in **.ico** format.  
-These are the icons you should use directly in Windows.
-
-📌 Recommended for users who only want to apply the icons.
-
----
-
-### 🔹 `PNG/`
-Contains **PNG preview versions** of the icons.  
-These are useful for viewing the icons quickly or using them in designs.
-
-📌 Recommended for preview and browsing.
+</div>
 
 ---
 
-### 🔹 `PSD/`
-Contains the original **Photoshop (.psd) source file(s)** used to design the folder icons.  
-You can edit the template, change colors, text, backgrounds, and create new icons easily.
+## 📌 Overview
 
-📌 Recommended for designers and creators.
+**Custom Icons Folder Pack** is a collection of custom-designed folder icons made to upgrade your Windows desktop experience.  
+It includes:
 
----
-
-### 🔹 `screenshots/`
-Contains preview screenshots showing how the icons look inside Windows folders.
-
----
-
-## 🖥️ How to Use (Windows)
-
-1. Right-click the folder you want to customize.
-2. Select **Properties**.
-3. Go to the **Customize** tab.
-4. Click **Change Icon**.
-5. Browse and select an icon from the `ICO/` folder.
-6. Click **Apply** → **OK**.
+✅ Ready-to-use **Windows `.ico` icons**  
+✅ **PNG previews** for easy browsing  
+✅ Editable **Photoshop `.psd` templates**  
+✅ Organized structure for quick access  
+✅ Screenshots preview for real Windows look  
 
 ---
 
-## ⭐ Features
+## 🖼️ Preview
 
-- High-quality Windows folder icons
-- Includes `.ico` files ready for Windows
-- PNG previews included
-- PSD template included for customization
-- Organized folder structure
+> Add your preview images inside the `screenshots/` folder, then link them here.
 
----
+<p align="center">
+  <img src="screenshots/preview-1.png" width="800">
+</p>
 
-## 📌 Notes
-
-- These icons are designed for Windows.
-- For best quality, use the `.ico` files provided in the `ICO/` folder.
+<p align="center">
+  <img src="screenshots/preview-2.png" width="800">
+</p>
 
 ---
 
-## 📜 License
+## 📂 Repository Structure
 
-This project is licensed under the **MIT License** (or update this section with your preferred license).
-
----
-
-## 👤 Author
-
-Created by **[Your Name]**  
-Feel free to connect with me on LinkedIn or check my GitHub profile.
+```bash
+Custom-Icons-Folder-Pack/
+│
+├── ICO/           # Final Windows icons (.ico)
+├── PNG/           # Preview images (.png)
+├── PSD/           # Photoshop source files (.psd)
+├── screenshots/   # Windows preview screenshots
+│
+├── README.md
+└── LICENSE
