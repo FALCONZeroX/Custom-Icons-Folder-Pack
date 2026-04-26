@@ -49,10 +49,114 @@ It includes:
 ```bash
 Custom-Icons-Folder-Pack/
 │
-├── ICO/           # Final Windows icons (.ico)
-├── PNG/           # Preview images (.png)
-├── PSD/           # Photoshop source files (.psd)
-├── screenshots/   # Windows preview screenshots
+├── assets/
+│   └── PSD/            # Photoshop source files (.psd)
+│   └── ICO/            # Final Windows icons (.ico)
+│   └── PNG/            # Preview images (.png)
+|        
+├── screenshots/        # Windows preview screenshots
 │
 ├── README.md
 └── LICENSE
+
+📁 Folder Details
+🟦 ICO/
+
+Contains the final icons in .ico format.
+These files are ready to use directly in Windows.
+
+📌 Use this folder when you want to apply icons to folders.
+
+🟨 PNG/
+
+Contains PNG versions of the icons for preview and design purposes.
+
+📌 Use this folder for browsing and showcasing.
+
+🟥 PSD/
+
+Contains the original Photoshop source files used to design the icons.
+
+📌 Use this folder if you want to:
+
+Edit colors
+Replace images
+Add new titles
+Create your own custom folder icons
+🖥️ screenshots/
+
+Contains real Windows screenshots showing how the icons look when applied.
+
+🛠️ How to Install Icons on Windows
+
+Follow these steps to apply the icons:
+
+Right-click the folder you want to customize
+Select Properties
+Go to the Customize tab
+Click Change Icon
+Browse and choose an icon from the ICO/ folder
+Click Apply → OK
+🚀 Recommended Setup
+
+To make your folders look clean and organized:
+
+Use a separate folder for each category (Games, Tools, Projects, etc.)
+Apply icons from the ICO/ folder
+Use PNG previews to quickly choose the best style
+📦 Download
+Option 1: Clone the Repository
+git clone https://github.com/USERNAME/Custom-Icons-Folder-Pack.git
+Option 2: Download ZIP
+
+Go to the Releases section and download the latest .zip package.
+
+🔥 Customization (For Designers)
+
+To edit icons:
+
+Open the .psd file inside the PSD/ folder
+Modify:
+Background
+Text
+Glow effects
+Icons/logo
+Export as PNG
+Convert PNG to ICO (if needed)
+🧩 Convert PNG to ICO (Optional)
+
+You can use websites or tools such as:
+
+ConvertICO
+ICO Convert
+Photoshop export plugins
+📌 Roadmap
+ Add more gaming icons
+ Add developer/programming folder icons
+ Add minimal clean icon theme
+ Provide full icon installer script
+🤝 Contributing
+
+Contributions are welcome.
+
+If you want to add new icons:
+
+Fork the repo
+Add your icons inside the correct folder
+Create a Pull Request
+📜 License
+
+This project is licensed under the MIT License.
+Feel free to use and modify it.
+
+👤 Author
+
+Created by YOUR NAME
+
+🔗 GitHub: https://github.com/YOUR_USERNAME
+
+🔗 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+
+<div align="center">
+⭐ If you like this project, consider giving it a star!
+</div> ```
