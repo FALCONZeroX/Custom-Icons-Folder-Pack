@@ -35,7 +35,7 @@ It includes:
 > Add your preview images inside the `screenshots/` folder, then link them here.
 
 <p align="center">
-  <img src="screenshots/preview-1.png" width="800">
+  <img src="screenshots/screenshot1.png" width="800">
 </p>
 
 <p align="center">
