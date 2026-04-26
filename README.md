@@ -33,7 +33,7 @@ It includes:
 ## 🖼️ Preview
 
 > Add your preview images inside the `screenshots/` folder, then link them here.
-![Preview](Screenshots/preview-1.png)
+![Screenshot](./screenshots/Screenshot1.png)
 <p align="center">
   <img src="screenshots/Screenshot1.png" width="800">
 </p>
