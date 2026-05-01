@@ -3,6 +3,12 @@
 A high-quality **Windows Folder Icons Pack** featuring **ICO icons**, **PNG previews**, and editable **Photoshop (PSD) source files**.  
 Designed for gamers, developers, and creators who want a clean and modern Windows folder setup.
 
+![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat)
+![Format](https://img.shields.io/badge/Format-ICO%20%7C%20PNG-yellow?style=flat)
+![PSD](https://img.shields.io/badge/Source-PSD-lightgrey?style=flat)
+![License](https://img.shields.io/github/license/FALCONZeroX/Custom-Icons-Folder-Pack?style=flat)
+![Stars](https://img.shields.io/github/stars/FALCONZeroX/Custom-Icons-Folder-Pack?style=flat)
+![Forks](https://img.shields.io/github/forks/FALCONZeroX/Custom-Icons-Folder-Pack?style=flat)
 ---
 
 ## ✨ Features
