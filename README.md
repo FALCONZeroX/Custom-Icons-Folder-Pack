@@ -1,162 +1,130 @@
-<div align="center">
-
 # 🎨 Custom Icons Folder Pack
 
-A high-quality **Windows Folder Icons Pack** featuring **ICO icons**, **PNG previews**, and editable **PSD source files**.  
+A high-quality **Windows Folder Icons Pack** featuring **ICO icons**, **PNG previews**, and editable **Photoshop (PSD) source files**.  
 Designed for gamers, developers, and creators who want a clean and modern Windows folder setup.
-
-<br>
-
-![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
-![Photoshop](https://img.shields.io/badge/PSD-Photoshop-001E36?style=for-the-badge&logo=adobephotoshop)
-![Icons](https://img.shields.io/badge/Format-ICO%20%7C%20PNG-yellow?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/USERNAME/Custom-Icons-Folder-Pack?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/Custom-Icons-Folder-Pack?style=for-the-badge)
-
-</div>
 
 ---
 
-## 📌 Overview
+## ✨ Features
 
-**Custom Icons Folder Pack** is a collection of custom-designed folder icons made to upgrade your Windows desktop experience.  
-It includes:
+✅ High-quality **Windows Folder Icons (.ICO)**  
+✅ **PNG previews** for quick browsing  
+✅ Editable **PSD source files** included  
+✅ Clean modern style (Gaming Theme)  
+✅ Organized folder structure  
+✅ Suitable for Windows customization lovers
 
-✅ Ready-to-use **Windows `.ico` icons**  
-✅ **PNG previews** for easy browsing  
-✅ Editable **Photoshop `.psd` templates**  
-✅ Organized structure for quick access  
-✅ Screenshots preview for real Windows look  
+---
+
+## 📂 Project Structure
+Custom-Icons-Folder-Pack/
+│
+├── assets/
+│ ├── ICO/ # Final Windows icons (.ico)
+│ ├── PNG/ # Preview images (.png)
+│ └── PSD/ # Photoshop source files (.psd)
+│
+├── screenshots/ # Screenshots / previews
+│
+└── README.md
+
 
 ---
 
 ## 🖼️ Preview
 
-> Add your preview images inside the `screenshots/` folder, then link them here.
-![Screenshot](./screenshots/Screenshot1.png)
-<p align="center">
-  <img src="screenshots/Screenshot1.png" width="800">
-</p>
+### 🔥 Gaming Theme Icons
+> (You can add more screenshots here)
 
-<p align="center">
-  <img src="screenshots/preview-2.png" width="800">
-</p>
+![Preview 1](screenshots/Screenshot1.png)
+![Preview 2](screenshots/Screenshot2.png)
+
+📌 If previews do not show, make sure the screenshot filenames match exactly (case-sensitive).
 
 ---
 
-## 📂 Repository Structure
+## ⚙️ How To Use (Windows)
 
-```bash
-Custom-Icons-Folder-Pack/
-│
-├── assets/
-│   └── PSD/            # Photoshop source files (.psd)
-│   └── ICO/            # Final Windows icons (.ico)
-│   └── PNG/            # Preview images (.png)
-|        
-├── screenshots/        # Windows preview screenshots
-│
-├── README.md
-└── LICENSE
-```
-📁 Folder Details
-🟦 ICO/
+### Method 1: Change Folder Icon Manually
+1. Right-click on the folder
+2. Choose **Properties**
+3. Go to **Customize**
+4. Click **Change Icon**
+5. Browse and select any `.ico` file from:
 
-Contains the final icons in .ico format.
-These files are ready to use directly in Windows.
+assets/ICO/
 
-📌 Use this folder when you want to apply icons to folders.
+6. Click **Apply** then **OK**
 
-🟨 PNG/
+---
 
-Contains PNG versions of the icons for preview and design purposes.
+## 🛠️ Advanced Usage (desktop.ini)
 
-📌 Use this folder for browsing and showcasing.
+You can customize folder icons automatically using a `desktop.ini` file.
 
-🟥 PSD/
+Example:
 
-Contains the original Photoshop source files used to design the icons.
+```ini
+[.ShellClassInfo]
+IconResource=YourIcon.ico,0
+IconFile=YourIcon.ico
+IconIndex=0
 
-📌 Use this folder if you want to:
+📌 Make sure the folder is set as system folder to apply desktop.ini settings properly.
 
-Edit colors
-Replace images
-Add new titles
-Create your own custom folder icons
-🖥️ screenshots/
+📥 Download
 
-Contains real Windows screenshots showing how the icons look when applied.
+You can download the full pack from the Releases section:
 
-🛠️ How to Install Icons on Windows
+➡️ Go to: Releases
+⬇️ Download: Custom-Icons-Folder-Pack.zip
 
-Follow these steps to apply the icons:
-
-Right-click the folder you want to customize
-Select Properties
-Go to the Customize tab
-Click Change Icon
-Browse and choose an icon from the ICO/ folder
-Click Apply → OK
 🚀 Recommended Setup
 
-To make your folders look clean and organized:
+To keep your folders organized, we recommend naming folders like:
 
-Use a separate folder for each category (Games, Tools, Projects, etc.)
-Apply icons from the ICO/ folder
-Use PNG previews to quickly choose the best style
-📦 Download
-Option 1: Clone the Repository
-git clone https://github.com/USERNAME/Custom-Icons-Folder-Pack.git
-Option 2: Download ZIP
+Games
+Programs
+Work
+Projects
+Tools
+Media
+📌 Requirements
+Windows 10 / Windows 11
+Any software that supports .ico icons
+Photoshop (optional, only for editing PSD files)
+🧩 Customization
 
-Go to the Releases section and download the latest .zip package.
+You can fully edit icons using the included PSD files:
 
-🔥 Customization (For Designers)
+assets/PSD/
 
-To edit icons:
+After editing:
 
-Open the .psd file inside the PSD/ folder
-Modify:
-Background
-Text
-Glow effects
-Icons/logo
-Export as PNG
-Convert PNG to ICO (if needed)
-🧩 Convert PNG to ICO (Optional)
+Export PNG preview
+Convert to ICO
+Replace the icon inside assets/ICO/
+📸 Screenshots
 
-You can use websites or tools such as:
+All screenshots are stored here:
 
-ConvertICO
-ICO Convert
-Photoshop export plugins
-📌 Roadmap
- Add more gaming icons
- Add developer/programming folder icons
- Add minimal clean icon theme
- Provide full icon installer script
-🤝 Contributing
-
-Contributions are welcome.
-
-If you want to add new icons:
-
-Fork the repo
-Add your icons inside the correct folder
-Create a Pull Request
-📜 License
+screenshots/
+🏷️ License
 
 This project is licensed under the MIT License.
-Feel free to use and modify it.
+You are free to use, modify, and share this pack with proper credit.
 
 👤 Author
 
-Created by YOUR NAME
+Created by: FALCONZeroX
+📌 GitHub: https://github.com/FALCONZeroX
 
-🔗 GitHub: https://github.com/FALCONZeroX
+⭐ Support
 
-🔗 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+If you like this project:
 
-<div align="center">
-⭐ If you like this project, consider giving it a star!
-</div> ```
+⭐ Star the repo
+🍴 Fork it
+📢 Share it with others
+
+Enjoy customizing your Windows folders! 🎮🔥
